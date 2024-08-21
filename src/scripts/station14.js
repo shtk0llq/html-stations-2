@@ -1,0 +1,3 @@
+function handleAlert () {
+    alert('ECMAScript');
+}
